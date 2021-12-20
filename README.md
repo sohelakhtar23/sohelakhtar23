@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Sohel.
+I am a undergraduate (Bachelor's degree) student in Software Engineering. I love to make Mobile-apps 📱, websites 🌐 and have a keen interest in Data Science.
 
+- 🌱 I’m currently learning Flutter, Data Science
+- 🔭 I’m currently working on Web Technologies
+- ⚡ Fun fact: I love working on projects, solving Rubik's cube, ..
 <!--
 **sohelakhtar23/sohelakhtar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
