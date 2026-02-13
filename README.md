@@ -1,41 +1,65 @@
-### Hi there 👋 I'm Sohel.
------
-As a dedicated Machine learning, Deep learning, and Data Science practitioner, I am always eager to explore new opportunities to learn and apply these transformative technologies to solve real-world problems. With a solid grasp of machine learning concepts and algorithms, I bring experience with a variety of machine learning tools and libraries including TensorFlow, scikit-learn, and PyTorch.
+## 👋 Hi, I'm Sohel
 
-Previously involved in App development (Flutter), I have successfully published apps on the Play Store, including notable ones such as Technical NEB and Hamro Attendance.
+🚀 AI Research Assistant | Machine Learning & Data Science Enthusiast  
 
-Let's connect and explore how we can collaborate on exciting projects or initiatives in the dynamic realm of AI, ML, and Data Science.
+I am passionate about applying Machine Learning, Deep Learning, and Data Science to solve real-world problems.
 
-- 🔭 I’m currently working as a **ML engineer.**
-  
-- 🌱 I’m currently learning **NLP**.
-- 👯 I’m looking to collaborate on **ML, Data Science and Flutter** projects.
-- ⚡ Fun fact: I love reading articles to technology, working on community-based projects, and travelling.
+---
+
+### 🤖 Exploring Agentic AI
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="80"/>
+
+- Building autonomous AI systems  
+- Working with LLM-based agents  
+- Interested in multi-agent collaboration systems  
+
+---
+
+### 🔗 Exploring Blockchain & Web3
+<img src="https://img.icons8.com/color/96/blockchain-technology.png" width="80"/>
+
+- Smart contract fundamentals  
+- Decentralized systems  
+- AI + Blockchain integration  
+
+---
+
+### 💡 What I’m Working On
+- 🔭 Currently working as an **AI Research Assistant**
+- 🌱 Exploring **Agentic AI, Blockchain & Web3**
+- 🤝 Interested in collaborations at the intersection of **AI + Blockchain**
+
+---
+
+📫 Let’s connect and collaborate on exciting AI, ML, and Web3 projects!
+
+⚡ Fun Fact: I love reading books, working on community-based projects, traveling, and staying up-to-date with emerging technologies.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
-
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="43" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow " width="40"height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit_learn" alt="Scikit_learn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"  alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
-</div> <hr>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="43" height="42"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/blockchain-technology.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/ethereum.png" width="40"/>
+  <img src="https://logowik.com/content/uploads/images/solidity-programming-language881.logowik.com.webp" width="40"  alt="Solidity Logo"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp;
+</div>
 
+---
 ### Here's the link to my portfolio:  [Link](https://sites.google.com/view/sohel-akhtar)  <hr>
 
 ### My Github Stats : 
