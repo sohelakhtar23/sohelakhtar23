@@ -18,10 +18,10 @@ I am passionate about applying Machine Learning, Deep Learning, and Data Science
 ### 🔗 Exploring Blockchain & Web3
 <img src="https://img.icons8.com/color/96/blockchain-technology.png" width="80"/>
 
-- Smart contract fundamentals  
+- Smart contract (Solidity) 
 - Decentralized systems  
 - AI + Blockchain integration  
-
+- Foundry
 ---
 
 ### 💡 What I’m Working On
@@ -33,7 +33,7 @@ I am passionate about applying Machine Learning, Deep Learning, and Data Science
 
 📫 Let’s connect and collaborate on exciting AI, ML, and Web3 projects!
 
-⚡ Fun Fact: I love reading books, working on community-based projects, traveling, and staying up-to-date with emerging technologies.
+⚡ Fun Fact: I love cycling, reading books, traveling, working on community-based projects, and staying up-to-date with emerging technologies.
 
 ---
 
@@ -62,18 +62,16 @@ I am passionate about applying Machine Learning, Deep Learning, and Data Science
 ---
 ### Here's the link to my portfolio:  [Link](https://sites.google.com/view/sohel-akhtar)  <hr>
 
-### My Github Stats : 
+<!-- ### My Github Stats :  -->
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sohelakhtar23&theme=dark&background=000000)](https://git.io/streak-stats) <br> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=sohelakhtar23&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="sohelakhtar23's GitHub stats" /><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sohelakhtar23&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="sohelakhtar23's GitHub stats" /><br> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelakhtar23&layout=compact&theme=vision-friendly-dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohelakhtar23&layout=compact&theme=vision-friendly-dark) -->
 
 
-<!-- [![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohelakhtar23&theme=github-compact)](https://github.com/sohelakhtar23/github-readme-activity-graph) -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelakhtar23&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /> -->
 
 
 <!--
